@@ -1,2 +1,13 @@
 # Udacity-Pytorch-Scholarship
-This repository contains all the lessons that I learnt during this scholarship. It also contains the project that I developed in Pytorch framework
+## Introduction
+This scholarship was fully sponsered by Facebook and Udacity. In this, I work on various Machine learning and Deep Learning Techniques.
+## Technologies used
+Pytorch
+
+## Techniques learned
+-Neural Networks
+-Convolution Neural Networks
+-LSTM
+-GAN
+
+
