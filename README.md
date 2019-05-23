@@ -5,9 +5,9 @@ This scholarship was fully sponsered by Facebook and Udacity. In this, I work on
 Pytorch
 
 ## Techniques learned
--Neural Networks
--Convolution Neural Networks
--LSTM
--GAN
+- Neural Networks
+- Convolution Neural Networks
+- LSTM
+- GAN
 
 
